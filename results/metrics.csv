@@ -1,0 +1,4 @@
+model,MAE_kW,RMSE_kW
+Baseline (same hour yesterday),0.615,0.9168
+Linear Regression,0.4242,0.6074
+Random Forest,0.3795,0.5599
